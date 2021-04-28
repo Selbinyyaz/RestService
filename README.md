@@ -62,3 +62,11 @@ The following listing shows the pom.xml file that is created when you choose Mav
 
 </project>
 
+# Create a Resource Representation Class
+
+Now that you have set up the project and build system, you can create your web service.
+
+# Tested REST Endpoints Using REST Assured Java Library
+
+Rest assured is java library for testing Restful Web services. It can be used to test XML & JSON based web services. It supports GET, POST, PUT, PATCH, DELETE, OPTIONS and HEAD requests and can be used to validate and verify the response of these requests. Also, it integrated with TestNG testing framework.
+
