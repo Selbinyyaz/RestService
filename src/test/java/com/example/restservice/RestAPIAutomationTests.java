@@ -12,7 +12,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 @SpringBootTest
-class RestServiceApplicationTests {
+class RestAPIAutomationTests {
 
 	@Test
 	void SampleTest() {
